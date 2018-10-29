@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2436A1C2-3910-4512-81DF-8EEF383FE612}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleProject PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleProject/Program.cs">
+    <Files>
+      <File FileName="SampleProject/Program.cs" Line="8" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
